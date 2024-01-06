@@ -6,19 +6,19 @@
   - Structured programming: 🖐️ used
   - Non-structured programming: 🖐️ used
   - Functional programming:🖐️ used
-  - Prototype-based programming
+  - Prototype-based programming: 👂 heard
   - Object-oriented programming: 🖐️ used
   - Object-based programming: 🖐️ used
   - Generic programming: 🖐️ used
-  - Concurrent computing: 👂 heard
+  - Concurrent computing: 🔬 researched
   - Asyncronous programming: 🖐️ used
-  - Parallel programming: 👂 heard
+  - Parallel programming: 🔬 researched
   - Reactive programming: 👂 heard
   - FRP (Functional-reactive): 👂 heard
   - Automata-based programming: 🖐️ used
   - Domain-specific languages: 🖐️ used
   - Multi-paradigm programming: 🖐️ used
-  - Metaprogramming
+  - Metaprogramming: 👂 heard
   - Actor model
 - OOP basics:
   - constructor: 🖐️ used
@@ -39,28 +39,28 @@
   - Hidden class: 👂 heard
   - Object form: 🖐️ used
   - instance: 🖐️ used
-  - Introspection: 👂 heard
-  - Reflection: 👂 heard
+  - Introspection: 🖐️ used
+  - Reflection: 🖐️ used
 - Patterns
   - Singleton: 🎓 known
-  - Factory Method: 👂 heard
-  - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
-  - Observer: 👂 heard
-  - Strategy: 👂 heard
-  - Facade: 👂 heard
-  - Proxy: 👂 heard
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
+  - Adapter: 🎓 known
+  - Observer: 🎓 known
+  - Strategy: 🎓 known
+  - Facade: 🎓 known
+  - Proxy: 🎓 known
   - Chain of Responsibility: 🎓 known
   - Command: 👂 heard
-  - Iterator
-  - State: 👂 heard
-  - Bridge: 👂 heard
-  - Builder: 👂 heard
-  - Prototype
-  - Composite
+  - Iterator: 🎓 known
+  - State: 🎓 known
+  - Bridge: 🎓 known
+  - Builder: 🎓 known
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
   - Decorator: 🎓 known
-  - Flyweight
+  - Flyweight: 🎓 known
   - Mediator: 👂 heard
-  - Memento
-  - Template Method
+  - Memento: 👂 heard
+  - Template Method: 🎓 known
   - Visitor: 🎓 known

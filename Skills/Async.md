@@ -1,26 +1,26 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 👂 heard
+  - Event loop: 🔬 researched
   - try..catch: 🖐️ used
   - Non-blocking: 👂 heard
   - Async I/O: 👂 heard
-  - Thread pool: 👂 heard
+  - Thread pool: 🔬 researched
   - Pattern Reactor: 🖐️ used
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
+  - CAS operations: 🔬 researched
+  - epoll: 🔬 researched
+  - kqueue: 🔬 researched
+  - Completion ports: 👂 heard
+  - Event ports: 👂 heard
   - libuv: 👂 heard
   - Race conditions: 👂 heard
-  - Dead locks: 👂 heard
-  - Live locks
-  - Concurrent programming: 👂 heard
-  - Parallel programming: 👂 heard
+  - Dead locks: 🔬 researched
+  - Live locks: 👂 heard
+  - Concurrent programming: 🔬 researched
+  - Parallel programming: 🔬 researched
   - Actor Model
-  - Thread: 👂 heard
-  - Process: 👂 heard
+  - Thread: 🔬 researched
+  - Process: 🔬 researched
 - Async contracts
   - Callbacks: 🖐️ used
   - Callback-last-error-first: 🖐️ used
@@ -28,18 +28,18 @@
   - Promise: 🖐️ used
   - Async/await: 🖐️ used
   - Future: 👂 heard
-  - Deferred
+  - Deferred: 👂 heard
   - Sync generator: 🎓 known
-  - Async Generator: 👂 heard
-  - Async Iterator: 👂 heard
+  - Async Generator: 🎓 known
+  - Async Iterator: 🎓 known
   - Event: 🎓 known
-  - Coroutine: 👂 heard
+  - Coroutine: 🎓 known
   - Goroutine: 👂 heard
   - Signal: 👂 heard
   - Stream: 🖐️ used
   - Chain of responsibility: 🖐️ used
   - Middleware: 🖐️ used
-  - Locks: 👂 heard
+  - Locks: 🔬 researched
 - Async adapters and utils
   - callbackify: 👂 heard
   - promisify: 🖐️ used

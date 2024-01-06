@@ -29,7 +29,7 @@
   - Command line arguments: 🖐️ used
   - Node.js CLI: 🖐️ used
   - Process-based permissions
-  - Graceful shutdown: 👂 heard
+  - Graceful shutdown: 🎓 known
   - Clustering
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
@@ -68,7 +68,7 @@
   - Dependency injection: 🖐️ used
   - GRASP: 👂 heard
   - SOLID: 🖐️ used
-  - GoF patterns: 👂 heard
+  - GoF patterns: 🎓 known
   - Distributed systems:
   - Highload applications
   - Clean architecture: 👂 heard

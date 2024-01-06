@@ -15,8 +15,8 @@
   - destructuring: 🖐️ used
   - generator: 🎓 known
   - iterator: 🎓 known
-  - async generator: 👂 heard
-  - async iterator: 👂 heard
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
   - chaining: 🖐️ used
   - optional chaining: 👂 heard
   - IIFE: 🎓 known
@@ -39,7 +39,7 @@
   - in: 🖐️ used
   - super: 🖐️ used
   - Symbol: 🎓 known
-  - Reflect 👂 heard
+  - Reflect 🎓 known
 - Statements
   - if: 🎓 known
   - while: 🎓 known
@@ -58,7 +58,7 @@
   - switch: 🖐️ used
   - class: 🖐️ used
   - new Error: 🖐️ used
-  - with: 👂 heard
+  - with: 🎓 known
 - Functions
   - function declaration: 🖐️ used
   - function expression: 🖐️ used

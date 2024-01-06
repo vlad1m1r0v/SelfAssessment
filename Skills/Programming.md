@@ -45,13 +45,13 @@
   - listener: 🎓 known
   - compose: 🎓 known
   - pipe: 🎓 known
-  - memoize: 👂 heard
+  - memoize: 🎓 known
   - wrapper: 🎓 known
   - functor: 🎓 known
   - monad: 👂 heard
   - monoid: 🎓 known
   - generator: 🎓 known
-  - coroutine: 👂 heard
+  - coroutine: 🎓 known
 - Data structures
   - array: 🎓 known
   - structure: 🎓 known
