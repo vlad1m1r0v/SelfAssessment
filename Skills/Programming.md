@@ -48,7 +48,7 @@
   - memoize: 🎓 known
   - wrapper: 🎓 known
   - functor: 🎓 known
-  - monad: 👂 heard
+  - monad: 🎓 known
   - monoid: 🎓 known
   - generator: 🎓 known
   - coroutine: 🎓 known

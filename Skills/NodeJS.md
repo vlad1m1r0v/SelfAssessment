@@ -30,13 +30,13 @@
   - Node.js CLI: 🖐️ used
   - Process-based permissions
   - Graceful shutdown: 🎓 known
-  - Clustering
+  - Clustering 🖐️ used
   - Watch filesystem changes with --watch: 👂 heard
 - Internal API
   - Streams API: 🖐️ used
   - Web Streams API
   - Crypto API: 🖐️ used
-  - Password hashing with node:crypto.scrypt
+  - Password hashing with node:crypto.scrypt 🖐️ used
   - Web Crypto API
   - File system API: sync and async: 🖐️ used
   - Copy folder recursively: 🖐️ used
@@ -78,9 +78,9 @@
   - CQRS: 👂 heard
   - Event sourcing: 👂 heard
   - Load balancing: 👂 heard
-  - Serverless clouds
+  - Serverless clouds 🎓 known
   - FaaS clouds
-  - Fat controller
+  - Fat controller 🎓 known
   - GoF for Node.js: 👂 heard
   - Leaking abstractions
 - Network
@@ -89,17 +89,17 @@
   - HTTP(S): 🖐️ used
   - TCP/SSL: 🎓 known
   - UDP: 🎓 known
-  - TLS
+  - TLS 🎓 known
   - Websocket: 🖐️ used
-  - SSE
-  - HTTP/3 (QUIC)
+  - SSE 🎓 known
+  - HTTP/3 (QUIC) 🎓 known
   - Long polling: 🎓 known
   - REST: 🖐️ used
   - RPC: 👂 heard
   - Routing: 🖐️ used
-  - DoS
+  - DoS 🎓 known
   - DDoS: 🎓 known
-  - XSS
+  - XSS 🎓 known
   - Path traversal
   - CSRF: 👂 heard
   - DNS: 👂 heard
